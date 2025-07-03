@@ -1,4 +1,4 @@
-# LexAI: Yapay Zeka Destekli Hukuki Karar Destek Sistemi
+# LexAI: Bilişim Hukukunda Yapay Zeka Destekli Asistanınız
 
 Bu proje, İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği bölümünde 2025 yılı Bitirme Projesi kapsamında hazırlanmıştır.  
 LexAI, Türk Bilişim Hukuku özelinde geliştirilmiş, yapay zeka destekli bir hukuki araştırma ve karar destek sistemidir.
